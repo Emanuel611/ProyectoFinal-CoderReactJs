@@ -1,0 +1,49 @@
+.flexNavBar {
+    background-color: black;
+}
+
+.flexDivBar {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.wePlay {
+    font-size: 2rem;
+    cursor: pointer;
+}
+
+.linkWePlay {
+    color: white;
+    text-decoration: none;
+}
+
+.linkWePlay:hover {
+    color: #3498DB;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+li {
+    cursor: pointer;
+    text-transform: uppercase;
+    margin-left: 2rem;
+    color: whitesmoke;
+    font-size: 1rem;
+}
+
+.estiloNavLink {
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.estiloNavLink:hover {
+    color: #3498DB;
+}

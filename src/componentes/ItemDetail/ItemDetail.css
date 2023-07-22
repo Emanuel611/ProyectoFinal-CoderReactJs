@@ -1,0 +1,99 @@
+.imgDetail {
+    width: 250px;
+}
+
+.divDetail {
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+    background-color: #F4F6F6;
+    border: 1px solid #ABB2B9;
+    border-radius: 7px;
+    margin: 1rem;
+}
+
+.h2Detail {
+    font-size: 2.5rem;
+    margin: 1rem;
+}
+
+.h3Detail {
+    margin: 0.5rem;
+    font-size: 1.5rem;
+}
+
+.h4Detail {
+    font-size: 0.8rem;
+    margin: 0.5rem;
+    text-align: center;
+}
+
+.h5Detail {
+    margin: 0.5rem;
+}
+
+.linkDetail {
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: bold;
+    color: #F7F9F9;
+    background-color: black;
+    text-decoration: none;
+    margin: 1rem;
+    padding: 0.5rem 1.2rem;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.linkDetail:hover {
+    background-color: #2C3E50;
+    border: 1px solid #2C3E50;
+}
+
+.pDetail {
+    text-align: center;
+    margin: 0.3rem;
+    font-size: 0.8rem;
+}
+
+.linkSeguir {
+    margin: 1rem;
+    padding: 10px 20px;
+    border: 2px solid #007BFF;
+    background-color: #007BFF;
+    color: #FFFFFF;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.linkSeguir:hover {
+    background-color: #0056b3;
+}
+
+.linkSeguir:active {
+    background-color: #004080;
+}
+
+.btnFinalizarCompra {
+    margin: 1rem;
+    padding: 10px 20px;
+    border: 2px solid #4CAF50;
+    background-color: #4CAF50;
+    color: #FFFFFF;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.btnFinalizarCompra:hover {
+    background-color: #45A049;
+}
+
+.btnFinalizarCompra:active {
+    background-color: #367d38;
+}

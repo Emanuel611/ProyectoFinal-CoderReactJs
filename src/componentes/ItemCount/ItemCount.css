@@ -1,0 +1,41 @@
+.flexContador {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+    margin: 0.5rem;
+    
+}
+
+.botonDisminuir {
+    cursor: pointer;
+    margin-right: 13px;
+    padding: 2px 10px;
+}
+
+.botonIncrementar {
+    cursor: pointer;
+    margin-left: 13px;
+    padding: 2px 10px;
+}
+
+.btnCount {
+    margin: 1rem;
+    padding: 10px 20px;
+    border: 2px solid #4CAF50;
+    background-color: #4CAF50;
+    color: #FFFFFF;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.btnCount:hover {
+    background-color: #45A049;
+}
+
+.btnCount:active {
+    background-color: #367d38;
+}

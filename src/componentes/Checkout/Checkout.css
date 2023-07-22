@@ -1,0 +1,41 @@
+.styleForm {
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+}
+
+.flexEnviar {
+    display: flex;
+    justify-content: center;
+    margin: 1.2rem;
+}
+
+.btnEnviar {
+    margin: 1rem;
+    padding: 10px 20px;
+    border: 2px solid #007BFF;
+    background-color: #007BFF;
+    color: #FFFFFF;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.btnEnviar:hover {
+    background-color: #0056b3;
+}
+
+.btnEnviar:active {
+    background-color: #004080;
+}
+
+.styleOrden {
+    border: 1px solid #0056b3;
+    padding: 1rem;
+    font-size: 1.5rem;
+    text-align: center;
+    margin-left: 3rem;
+    margin-right: 3rem;
+}
