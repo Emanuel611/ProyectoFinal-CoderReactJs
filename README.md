@@ -1,5 +1,5 @@
-# WePlay Store
-WePlay es una store ficticia que cree para aprender a implementar React JS. Simula un básico e-commerce con productos Gamers donde podrás ejecutar varias funciones habituales en este tipo de webs. Por cada orden de compra generada se realiza un nuevo pedido a la base de datos de Firebase lo que genera un cambio de stock y un ID personal de compra.
+# Ximaro
+Ximaro es una store ficticia que cree para aprender a implementar React JS. Simula un básico e-commerce con productos Gamers donde podrás ejecutar varias funciones habituales en este tipo de webs. Por cada orden de compra generada se realiza un nuevo pedido a la base de datos de Firebase lo que genera un cambio de stock y un ID personal de compra.
 
 ## Tecnologías empleadas
 - Vite
