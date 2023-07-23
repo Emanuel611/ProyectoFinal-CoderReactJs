@@ -19,7 +19,7 @@ const Cart = () => {
     }
     return (
         <>
-            <h2 className="h2Cart">¡ Tu carrito luce genial !</h2>
+            <h2 className="h2Cart">¡ Tu carrito !</h2>
             {cart.map(producto => <CartItem key={producto.id} {...producto} />)}
             <div className="flexCart">
                 <h3 className="h3Total">Total: ${total}</h3>

@@ -20,8 +20,8 @@ const ItemDetail = ({ id, nombre, precio, img, stock }) => {
             <h2 className="h2Detail">{nombre} </h2>
             <img className="imgDetail" src={img} alt={nombre}/>
             <h3 className="h3Detail">Precio: ${precio}</h3>
-            <h4 className="h4Detail"> Podes pagar con: VISA, MasterCard, Cabal, Naranja y MercadoPago</h4>
-            <p className="pDetail">Todos nuestro productos cuentan con 6 meses de garantía brindados por la fábrica extensible por nosotros hasta un máximo de 2 años</p>
+            <h4 className="h4Detail"> Medio de pago: Tarjetas de creditos, bancarizdas, debito y mercado pago.</h4>
+            <p className="pDetail">Todos producto poseen un cambio directo de 5 dias y 30 dias de garantia.</p>
             <h5 className="h5Detail">Código de Producto: {id}</h5>
 
             {

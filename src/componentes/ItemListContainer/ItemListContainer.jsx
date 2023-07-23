@@ -29,7 +29,9 @@ const ItemListContainer = () => {
   
   return (
     <div>
-        <h2 className="tituloProductos">PRODUCTOS WEPLAY</h2>
+      <div className="tituloProductos">
+        <h2 className="titulo">PRODUCTOS</h2>
+      </div>
         <ItemList productos={productos}/>
     </div>
   )

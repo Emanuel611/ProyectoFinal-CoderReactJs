@@ -6,8 +6,8 @@
     display: flex;
     flex-flow: column nowrap;
     align-items: center;
-    background-color: #F4F6F6;
-    border: 1px solid #ABB2B9;
+    background-color: #ccd3d3;
+    border: 2px solid #0080ff;
     border-radius: 7px;
     margin: 1rem;
 }

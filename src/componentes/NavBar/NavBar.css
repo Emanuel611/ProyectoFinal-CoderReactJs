@@ -1,5 +1,5 @@
 .flexNavBar {
-    background-color: black;
+    background-color: rgb(53, 121, 204);
 }
 
 .flexDivBar {
@@ -14,12 +14,13 @@
     cursor: pointer;
 }
 
-.linkWePlay {
+.linkXimaro {
     color: white;
     text-decoration: none;
+    font-size: 3rem;
 }
 
-.linkWePlay:hover {
+.linkXimaro:hover {
     color: #3498DB;
 }
 
